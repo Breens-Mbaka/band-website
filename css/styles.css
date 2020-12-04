@@ -1,6 +1,24 @@
+h1 {
+  text-align: center;
+}
 .sidebar {
   width: 40%;
   float: right;
   background-color: blue;
   border: red solid 3px;
+}
+
+img {
+  float: left;
+  padding: 50px;
+  border: 3px solid red;
+  margin: 10px;
+}
+
+.list {
+  list-style: inside;
+}
+
+.aboutme {
+  text-align: center;
 }
